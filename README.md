@@ -2,6 +2,6 @@
 
 Alle Materialen zur freien Verwendung
 
-## Intro
+## Zum Flipped-Classroom-Video
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+https://cloud.hs-wismar.de/dl/fiCkrksY7oqBjutRnGrysR3E/OER_Unmündigkeit_JFMH17.mp4
